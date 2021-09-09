@@ -1,0 +1,17 @@
+{
+  "name": "vgscrape-util",
+  "version": "0.1.0",
+  "description": "Video game tournament scraping toolbox",
+  "homepage": "https://github.com/msikma/vgscrape",
+  "repository": "git+https://github.com/msikma/vgscrape",
+  "author": "Michiel Sikma <michiel@sikma.org>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cmd-tokenize": "^1.2.0",
+    "prop-validator": "^1.0.1"
+  }
+}
